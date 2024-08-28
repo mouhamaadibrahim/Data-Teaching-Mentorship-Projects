@@ -56,6 +56,12 @@ As the course instructor and mentor, I guide students through real-world applica
      - [Dashboard](./Student-Dashboards/Management-Information-System-Project-Dashboard.xlsx)
      - [Report](./Student-Reports/Management-Information-System-Project-Report.pdf)
 
+3. [Business Management Project](./Business-Management-Project/README.md) - Analyzes E-commerce customer behavior, including time spent on the app and website, length of membership, and annual spending, to provide insights into customer engagement and retention.
+   - **Key Insights:** Longer memberships are associated with higher spending, and users spend more time on the website compared to the app.
+   - **Resources:**
+     - [Presentation](./Student-Dashboards/Business-Management-Project-Presentation.pdf)
+     - [Report](./Student-Reports/Business-Management-Project-Report.pdf)
+
 **Skills Developed:**
 Students in this course develop a comprehensive set of skills, including:
 - **Analytical Skills:** By solving statistical problems and engaging in case studies.
