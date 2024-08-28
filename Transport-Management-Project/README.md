@@ -20,5 +20,6 @@ This project provides an in-depth analysis of global travel patterns, preference
 - Enhance aircraft comfort to meet the needs of frequent travelers.
 
 ## Resources
-- [Dashboard]([Student-Dashboards/Transport-Management-Project-Dashboard.xlsx](https://github.com/mouhamaadibrahim/Data-Teaching-Mentorship-Projects/blob/main/Student-Dashboards/Transport-Management-Project-Dashboard.xlsx)) - Interactive Excel dashboard visualizing key insights from the project.
-- [Report]([../../Student-Reports/Transport-Management-Project-Report.pdf](https://github.com/mouhamaadibrahim/Data-Teaching-Mentorship-Projects/blob/main/Student-Reports/Transport-Management-Project-Report.pdf)) - Comprehensive analysis report detailing the findings and recommendations.
+- [Dashboard](../../Student-Dashboards/Transport-Management-Project-Dashboard.xlsx) - Interactive Excel dashboard visualizing key insights from the project.
+- [Report](../../Student-Reports/Transport-Management-Project-Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
+
