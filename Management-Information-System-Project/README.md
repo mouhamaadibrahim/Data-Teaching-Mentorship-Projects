@@ -1,4 +1,4 @@
-# Management Information System Project: Comprehensive Analysis of Software Products
+# Comprehensive Analysis of Software Products
 
 ## Major Alignment
 This project is targeted towards students in the **Information Systems Major**. It involves analyzing software products and their market dynamics, which helps students develop a deeper understanding of BI tools and software pricing models. By examining the relationship between user ratings and various software attributes, students learn to provide strategic recommendations for software adoption in different industries.
