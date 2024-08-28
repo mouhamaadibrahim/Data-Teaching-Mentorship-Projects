@@ -1,5 +1,8 @@
 # Management Information System Project: Comprehensive Analysis of Software Products
 
+## Major Alignment
+This project is targeted towards students in the **Information Systems Major**. It involves analyzing software products and their market dynamics, which helps students develop a deeper understanding of BI tools and software pricing models. By examining the relationship between user ratings and various software attributes, students learn to provide strategic recommendations for software adoption in different industries.
+
 ## Project Overview
 This project investigates the relationship between different software pricing models and user ratings using a comprehensive dataset from Kaggle. The primary objective is to recommend the best BI software for various industries and business scales based on user requirements and ratings. The dataset provides insights into software categories, industries, business scales, user types, deployment methods, operating systems, and pricing models.
 
