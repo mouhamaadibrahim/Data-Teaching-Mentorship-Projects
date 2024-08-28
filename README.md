@@ -43,6 +43,13 @@ Business Statistics at AUT covers fundamental statistical techniques with a stro
 **Mentoring Role:**
 As the course instructor and mentor, I guide students through real-world applications of statistical concepts using projects and case studies. My mentorship focuses on enhancing analytical skills through problem-solving activities, encouraging teamwork in group discussions, and developing computer skills using tools like Excel for statistical analysis. By providing practical examples and personalized feedback, I help students connect the statistical theory to real-life business problems.
 
+**Project Highlights:**
+- [Transport Management Project](./Transport-Management-Project/README.md) - Analyzes global travel patterns, preferences, and costs using a comprehensive dataset to provide insights for travel-related businesses.
+   - **Key Insights:** Week-long trips are the most popular, with hotels and planes being the preferred accommodation and transportation methods, respectively.
+   - **Resources:**
+     - [Dashboard](../Student-Dashboards/Transport-Management-Project-Dashboard.xlsx)
+     - [Report](../Student-Reports/Transport-Management-Project-Report.pdf)
+
 **Skills Developed:**
 Students in this course develop a comprehensive set of skills, including:
 - **Analytical Skills:** By solving statistical problems and engaging in case studies.
