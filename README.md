@@ -46,7 +46,7 @@ Business Statistics at AUT covers fundamental statistical techniques with a stro
 As the course instructor and mentor, I guide students through real-world applications of statistical concepts using projects and case studies. My mentorship focuses on enhancing analytical skills through problem-solving activities, encouraging teamwork in group discussions, and developing computer skills using tools like Excel for statistical analysis. By providing practical examples and personalized feedback, I help students connect the statistical theory to real-life business problems.
 
 ### Project Highlights: Business Statistics Projects Aligned with Majors
----
+
 
 1. [Transport Management Project](./Transport-Management-Project/README.md) - **For Transport Management Major**
    - **Project Overview:** This project provides an in-depth analysis of global travel patterns, preferences, and costs using a comprehensive travel dataset sourced from Kaggle. The dataset includes detailed information on trips, such as destinations, travel dates, trip durations, traveler demographics, and the type and cost of accommodation and transportation. The objective is to gain insights into travel behaviors and preferences, which can help travel-related businesses tailor their marketing strategies and travel packages.
