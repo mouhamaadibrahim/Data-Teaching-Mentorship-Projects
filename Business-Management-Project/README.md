@@ -1,4 +1,4 @@
-# Business Management Project: Analysis of E-commerce Customer Behavior and Time Spending
+# Analysis of E-commerce Customer Behavior and Time Spending
 
 ## Major Alignment
 This project is developed for students in the **Business Management Major**. It focuses on understanding customer behavior in the E-commerce sector, providing insights that are crucial for decision-making in business management. By analyzing metrics such as time spent on apps and websites, students gain practical skills in data interpretation, which are essential for enhancing customer engagement and retention strategies.
