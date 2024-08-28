@@ -1,4 +1,4 @@
-# Management Information System Project
+# Management Information System Project: Comprehensive Analysis of Software Products
 
 ## Project Overview
 This project investigates the relationship between different software pricing models and user ratings using a comprehensive dataset from Kaggle. The primary objective is to recommend the best BI software for various industries and business scales based on user requirements and ratings. The dataset provides insights into software categories, industries, business scales, user types, deployment methods, operating systems, and pricing models.
