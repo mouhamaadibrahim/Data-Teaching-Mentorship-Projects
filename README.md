@@ -19,6 +19,7 @@ My mentorship has significantly impacted students' academic journeys, empowering
 In my teaching and mentorship, I leverage a diverse set of tools and methodologies to drive student success:
 - **Data Analysis & Visualization:** Excel, with an overview of Power BI.
 - **Statistical Analysis & Modeling:** Excel
+- **Database Management & SQL:** SQL for querying and analyzing datasets to extract insights.
 - **Educational Content Development:** LaTeX, Microsoft PowerPoint
 - **Project Management & Collaboration:** Microsoft Teams, Slack
 
