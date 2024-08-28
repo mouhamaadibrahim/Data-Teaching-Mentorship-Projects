@@ -1,4 +1,4 @@
-# Nutrition Analysis and Health Implications of Major Fast-Food Chains
+# Nutrition Project: Analysis and Health Implications of Major Fast-Food Chains
 
 ## Project Overview
 This project provides a comprehensive analysis of the nutritional content and health implications of menu items from major fast-food chains such as McDonald’s, Burger King, KFC, Taco Bell, Wendy’s, and Pizza Hut. By examining key nutritional indicators like calories, fats, sugars, sodium, and more, the study aims to empower consumers with the knowledge to make healthier dietary choices.
