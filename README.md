@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to my Data Teaching and Mentorship Projects at the **American University of Technology (AUT)**! This repository showcases a collection of projects, dashboards, reports, and teaching materials from my work as a university instructor and mentor. As an educator, I guide students through complex data analysis projects, help them develop practical skills, and support their growth into capable data professionals.
 
-**Explore the [Project Highlights](#business-statistics) below** to see how students apply statistical concepts to real-world business challenges through hands-on projects.
+**Explore the [Project Highlights](### Project Highlights: Business Statistics Projects Aligned with Majors) below** to see how students apply statistical concepts to real-world business challenges through hands-on projects.
 
 ## Mentorship Highlights
 Throughout my teaching career, I have elevated student skills and fostered academic success through targeted guidance and hands-on learning experiences. Here are some key achievements:
