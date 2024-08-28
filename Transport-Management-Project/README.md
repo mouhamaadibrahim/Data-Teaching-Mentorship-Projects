@@ -1,4 +1,4 @@
-# Transport Management Project: Analysis of Global Travel Patterns, Preferences, and Costs
+# Analysis of Global Travel Patterns, Preferences, and Costs
 
 ## Major Alignment
 This project is designed for students in the **Transport Management Major**. It provides practical experience in analyzing global travel data, allowing students to apply statistical methods to real-world scenarios relevant to the transport and travel industry. The insights gained from this project can help students understand travel behaviors and preferences, aiding in the development of effective marketing strategies and travel packages.
