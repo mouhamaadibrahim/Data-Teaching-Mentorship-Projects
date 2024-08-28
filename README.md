@@ -62,6 +62,12 @@ As the course instructor and mentor, I guide students through real-world applica
      - [Presentation](./Student-Dashboards/Business-Management-Project-Presentation.pdf)
      - [Report](./Student-Reports/Business-Management-Project-Report.pdf)
 
+4. [Nutrition Project](./Nutrition-Project/README.md) - Provides a comprehensive analysis of the nutritional content and health implications of major fast-food chains to empower consumers with knowledge for healthier dietary choices.
+   - **Key Insights:** High calorie and sodium contents were prevalent in many items, with significant disparities across chains; McDonald's had the most diverse offerings, while KFC showed higher fat content.
+   - **Resources:**
+     - [Dashboard](./Student-Dashboards/Nutrition-Project-Dashboard.xlsx)
+     - [Report](./Student-Reports/Nutrition-Project-Report.pdf)
+
 **Skills Developed:**
 Students in this course develop a comprehensive set of skills, including:
 - **Analytical Skills:** By solving statistical problems and engaging in case studies.
