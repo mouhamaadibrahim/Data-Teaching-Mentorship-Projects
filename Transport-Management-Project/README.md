@@ -1,5 +1,8 @@
 # Transport Management Project: Analysis of Global Travel Patterns, Preferences, and Costs
 
+## Major Alignment
+This project is designed for students in the **Transport Management Major**. It provides practical experience in analyzing global travel data, allowing students to apply statistical methods to real-world scenarios relevant to the transport and travel industry. The insights gained from this project can help students understand travel behaviors and preferences, aiding in the development of effective marketing strategies and travel packages.
+
 ## Project Overview
 This project provides an in-depth analysis of global travel patterns, preferences, and costs using a comprehensive travel dataset sourced from [Kaggle](https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data/data). The dataset includes detailed information on trips, such as destinations, travel dates, trip durations, traveler demographics, and the type and cost of accommodation and transportation. The objective is to gain insights into travel behaviors and preferences, which can help travel-related businesses tailor their marketing strategies and travel packages.
 
