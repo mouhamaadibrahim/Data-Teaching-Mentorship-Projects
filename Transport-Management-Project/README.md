@@ -21,5 +21,5 @@ This project provides an in-depth analysis of global travel patterns, preference
 
 ## Resources
 - [Dashboard](../../Student-Dashboards/Transport-Management-Project-Dashboard.xlsx) - Interactive Excel dashboard visualizing key insights from the project.
-- [Report](../../Student-Reports/Transport-Management-Project-Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
+- [Report](../Student-Reports/Transport-Management-Project-Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
 
