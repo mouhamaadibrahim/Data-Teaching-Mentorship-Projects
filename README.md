@@ -47,8 +47,8 @@ As the course instructor and mentor, I guide students through real-world applica
 - [Transport Management Project](./Transport-Management-Project/README.md) - Analyzes global travel patterns, preferences, and costs using a comprehensive dataset to provide insights for travel-related businesses.
    - **Key Insights:** Week-long trips are the most popular, with hotels and planes being the preferred accommodation and transportation methods, respectively.
    - **Resources:**
-     - [Dashboard](../Student-Dashboards/Transport-Management-Project-Dashboard.xlsx)
-     - [Report](../Student-Reports/Transport-Management-Project-Report.pdf)
+     - [Dashboard](./Student-Dashboards/Transport-Management-Project-Dashboard.xlsx) - Interactive Excel dashboard visualizing key insights from the project.
+     - [Report](./Student-Reports/Transport-Management-Project-Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
 
 **Skills Developed:**
 Students in this course develop a comprehensive set of skills, including:
