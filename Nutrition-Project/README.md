@@ -1,5 +1,8 @@
 # Nutrition Project: Analysis and Health Implications of Major Fast-Food Chains
 
+## Major Alignment
+This project is tailored for students in the **Nutrition Major**. It allows students to apply statistical analysis techniques to assess the nutritional content of fast-food items, providing valuable insights into health implications. This project empowers students with the skills to analyze dietary data, a crucial competency for those pursuing careers in nutrition and public health.
+
 ## Project Overview
 This project provides a comprehensive analysis of the nutritional content and health implications of menu items from major fast-food chains such as McDonald’s, Burger King, KFC, Taco Bell, Wendy’s, and Pizza Hut. By examining key nutritional indicators like calories, fats, sugars, sodium, and more, the study aims to empower consumers with the knowledge to make healthier dietary choices.
 
