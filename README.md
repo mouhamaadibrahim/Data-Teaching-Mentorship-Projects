@@ -43,27 +43,30 @@ Business Statistics at AUT covers fundamental statistical techniques with a stro
 **Mentoring Role:**
 As the course instructor and mentor, I guide students through real-world applications of statistical concepts using projects and case studies. My mentorship focuses on enhancing analytical skills through problem-solving activities, encouraging teamwork in group discussions, and developing computer skills using tools like Excel for statistical analysis. By providing practical examples and personalized feedback, I help students connect the statistical theory to real-life business problems.
 
-**Project Highlights:**
-1. [Transport Management Project](./Transport-Management-Project/README.md) - Analyzes global travel patterns, preferences, and costs using a comprehensive dataset to provide insights for travel-related businesses.
-   - **Key Insights:** Week-long trips are the most popular, with hotels and planes being the preferred accommodation and transportation methods, respectively.
+## Project Highlights (Aligned with Majors)
+
+### Business Statistics Projects
+
+1. [Transport Management Project](./Transport-Management-Project/README.md) - **For Transport Management Major**
+   - **Project Overview:** This project provides an in-depth analysis of global travel patterns, preferences, and costs using a comprehensive travel dataset sourced from Kaggle. The dataset includes detailed information on trips, such as destinations, travel dates, trip durations, traveler demographics, and the type and cost of accommodation and transportation. The objective is to gain insights into travel behaviors and preferences, which can help travel-related businesses tailor their marketing strategies and travel packages.
    - **Resources:**
      - [Dashboard](./Student-Dashboards/Transport-Management-Project-Dashboard.xlsx)
      - [Report](./Student-Reports/Transport-Management-Project-Report.pdf)
 
-2. [Management Information System Project](./Management-Information-System-Project/README.md) - Explores the relationship between software pricing models and user ratings to recommend the best BI software for various industries and business scales.
-   - **Key Insights:** Hybrid deployment models and Open Source pricing strategies were most favored among users.
+2. [Management Information System Project](./Management-Information-System-Project/README.md) - **For Information Systems Major**
+   - **Project Overview:** This project investigates the relationship between different software pricing models and user ratings using a comprehensive dataset from Kaggle. The primary objective is to recommend the best BI software for various industries and business scales based on user requirements and ratings. The dataset provides insights into software categories, industries, business scales, user types, deployment methods, operating systems, and pricing models.
    - **Resources:**
      - [Dashboard](./Student-Dashboards/Management-Information-System-Project-Dashboard.xlsx)
      - [Report](./Student-Reports/Management-Information-System-Project-Report.pdf)
 
-3. [Business Management Project](./Business-Management-Project/README.md) - Analyzes E-commerce customer behavior, including time spent on the app and website, length of membership, and annual spending, to provide insights into customer engagement and retention.
-   - **Key Insights:** Longer memberships are associated with higher spending, and users spend more time on the website compared to the app.
+3. [Business Management Project](./Business-Management-Project/README.md) - **For Business Management Major**
+   - **Project Overview:** This project explores customer behavior in the context of an E-commerce platform by analyzing various customer engagement metrics such as time spent on the app and website, length of membership, and annual spending. The analysis aims to provide insights into customer interactions and spending patterns, helping businesses make informed decisions to enhance customer retention and revenue growth.
    - **Resources:**
      - [Presentation](./Student-Dashboards/Business-Management-Project-Presentation.pdf)
      - [Report](./Student-Reports/Business-Management-Project-Report.pdf)
 
-4. [Nutrition Project](./Nutrition-Project/README.md) - Provides a comprehensive analysis of the nutritional content and health implications of major fast-food chains to empower consumers with knowledge for healthier dietary choices.
-   - **Key Insights:** High calorie and sodium contents were prevalent in many items, with significant disparities across chains; McDonald's had the most diverse offerings, while KFC showed higher fat content.
+4. [Nutrition Project](./Nutrition-Project/README.md) - **For Nutrition Major**
+   - **Project Overview:** This project provides a comprehensive analysis of the nutritional content and health implications of menu items from major fast-food chains such as McDonald’s, Burger King, KFC, Taco Bell, Wendy’s, and Pizza Hut. By examining key nutritional indicators like calories, fats, sugars, sodium, and more, the study aims to empower consumers with the knowledge to make healthier dietary choices.
    - **Resources:**
      - [Dashboard](./Student-Dashboards/Nutrition-Project-Dashboard.xlsx)
      - [Report](./Student-Reports/Nutrition-Project-Report.pdf)
