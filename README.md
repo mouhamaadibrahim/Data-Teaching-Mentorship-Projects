@@ -44,11 +44,17 @@ Business Statistics at AUT covers fundamental statistical techniques with a stro
 As the course instructor and mentor, I guide students through real-world applications of statistical concepts using projects and case studies. My mentorship focuses on enhancing analytical skills through problem-solving activities, encouraging teamwork in group discussions, and developing computer skills using tools like Excel for statistical analysis. By providing practical examples and personalized feedback, I help students connect the statistical theory to real-life business problems.
 
 **Project Highlights:**
-- [Transport Management Project](./Transport-Management-Project/README.md) - Analyzes global travel patterns, preferences, and costs using a comprehensive dataset to provide insights for travel-related businesses.
+1. [Transport Management Project](./Transport-Management-Project/README.md) - Analyzes global travel patterns, preferences, and costs using a comprehensive dataset to provide insights for travel-related businesses.
    - **Key Insights:** Week-long trips are the most popular, with hotels and planes being the preferred accommodation and transportation methods, respectively.
    - **Resources:**
-     - [Dashboard](./Student-Dashboards/Transport-Management-Project-Dashboard.xlsx) - Interactive Excel dashboard visualizing key insights from the project.
-     - [Report](./Student-Reports/Transport-Management-Project-Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
+     - [Dashboard](./Student-Dashboards/Transport-Management-Project-Dashboard.xlsx)
+     - [Report](./Student-Reports/Transport-Management-Project-Report.pdf)
+
+2. [Management Information System Project](./Management-Information-System-Project/README.md) - Explores the relationship between software pricing models and user ratings to recommend the best BI software for various industries and business scales.
+   - **Key Insights:** Hybrid deployment models and Open Source pricing strategies were most favored among users.
+   - **Resources:**
+     - [Dashboard](./Student-Dashboards/Management-Information-System-Project-Dashboard.xlsx)
+     - [Report](./Student-Reports/Management-Information-System-Project-Report.pdf)
 
 **Skills Developed:**
 Students in this course develop a comprehensive set of skills, including:
