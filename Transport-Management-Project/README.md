@@ -20,5 +20,5 @@ This project provides an in-depth analysis of global travel patterns, preference
 - Enhance aircraft comfort to meet the needs of frequent travelers.
 
 ## Resources
-- [Dashboard](../../Student-Dashboards/Transport%20Management's%20Project%20Dashboard.xlsx) - Interactive Excel dashboard visualizing key insights from the project.
-- [Report](../../Student-Reports/Transport%20Management's%20Project%20Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
+- [Dashboard](../../Student-Dashboards/Transport%20Management%27s%20Project%20Dashboard.xlsx) - Interactive Excel dashboard visualizing key insights from the project.
+- [Report](../../Student-Reports/Transport%20Management%27s%20Project%20Report.pdf) - Comprehensive analysis report detailing the findings and recommendations.
