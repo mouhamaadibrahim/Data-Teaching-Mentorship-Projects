@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to my Data Teaching and Mentorship Projects at the **American University of Technology (AUT)**! This repository showcases a collection of projects, dashboards, reports, and teaching materials from my work as a university instructor and mentor. As an educator, I guide students through complex data analysis projects, help them develop practical skills, and support their growth into capable data professionals.
 
+**Explore the [Project Highlights](#business-statistics) below** to see how students apply statistical concepts to real-world business challenges through hands-on projects.
+
 ## Mentorship Highlights
 Throughout my teaching career, I have elevated student skills and fostered academic success through targeted guidance and hands-on learning experiences. Here are some key achievements:
 - **Elevated communication, analytical, and visualization skills by 50%** through mentoring data analysis projects in business, transport, and management, utilizing Excel pivot tables to produce 7 impactful dashboards and reports.
@@ -17,7 +19,7 @@ My mentorship has significantly impacted students' academic journeys, empowering
 
 ## Technical Skills Applied
 In my teaching and mentorship, I leverage a diverse set of tools and methodologies to drive student success:
-- **Data Analysis & Visualization:** Excel, with an overview of Power BI.
+- **Data Analysis & Visualization:** Excel, SQL, with an overview of Power BI.
 - **Statistical Analysis & Modeling:** Excel
 - **Database Management & SQL:** SQL for querying and analyzing datasets to extract insights.
 - **Educational Content Development:** LaTeX, Microsoft PowerPoint
