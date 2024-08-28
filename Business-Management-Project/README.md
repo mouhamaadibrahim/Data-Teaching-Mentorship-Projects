@@ -1,4 +1,4 @@
-# Business Management Project
+# Business Management Project: Analysis of E-commerce Customer Behavior and Time Spending
 
 ## Project Overview
 This project explores customer behavior in the context of an E-commerce platform by analyzing various customer engagement metrics such as time spent on the app and website, length of membership, and annual spending. The analysis aims to provide insights into customer interactions and spending patterns, helping businesses make informed decisions to enhance customer retention and revenue growth.
