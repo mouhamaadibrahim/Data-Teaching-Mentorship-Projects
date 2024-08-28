@@ -50,7 +50,7 @@ Students in this course develop a comprehensive set of skills, including:
 - **Critical Thinking:** Through creative problem-solving tasks, students learn to evaluate statistical information and apply it in their fields.
 
 **Resources and Materials:**
-- [Dashboards](./Student-Dashboards/Business-Statistics) - Interactive and static dashboards created as part of the course projects.
-- [Reports](./Student-Reports/Business-Statistics) - Student reports and analyses demonstrating the application of statistical methods.
-- [Teaching Materials](./Teaching-Materials/Business-Statistics) - Course syllabus, lesson plans, and other instructional materials.
-- [Slides](./Slides/Business-Statistics) - Lecture slides that provide visual summaries of key statistical concepts.
+- [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
+- [Student Reports](./Student-Reports) - Reports and analyses completed by students, demonstrating the application of statistical and analytical methods.
+- [Teaching Materials](./Teaching-Materials) - Includes syllabi, lesson plans, exercises, and other instructional materials used in courses.
+- [Slides](./Slides) - Lecture slides and presentations that provide visual summaries of key concepts across different courses.
