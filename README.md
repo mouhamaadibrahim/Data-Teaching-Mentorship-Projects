@@ -98,10 +98,10 @@ Students in this course develop a comprehensive set of skills, including:
 ## Management Information Systems
 
 **Course Overview:**
-Management Information Systems (MIS) at AUT provides an introduction to management information technologies, emphasizing the relationship between Information Technology (IT) and business processes. The course focuses on the importance of aligning business information systems with business strategy and helps students understand the modern IT-driven business value chain. Key topics include IT’s role in organizational change, business transformation, and the development of IT strategies that support business objectives.
+Management Information Systems (MIS) at AUT provides an introduction to management information technologies, emphasizing the relationship between Information Technology (IT) and business processes. The course covers fundamental components of IT, such as IT architecture, information security, and the transformative potential of emerging technologies. It focuses on the importance of aligning business information systems with business strategy and helps students understand the modern IT-driven business value chain, including the challenges and best practices of IT implementation and outsourcing.
 
 **Mentoring Role:**
-As the course instructor and mentor, I guide students through practical applications of IT strategies via case studies and hands-on SQL exercises. My role includes facilitating understanding of how IT supports business processes, enabling students to develop critical skills in IT management and data-driven decision-making.
+As the course instructor and mentor, I guide students through practical applications of IT strategies via case studies and hands-on SQL exercises. My role includes facilitating understanding of how IT supports business processes, enabling students to develop critical skills in IT management and data-driven decision-making. I emphasize the strategic and operational aspects of IT management, helping students appreciate the impact of robust IT architecture, the role of IS applications, and the principles of information security in supporting business objectives.
 
 **Impact:**
 - **Boosted SQL proficiency:** Improved fundamental SQL skills among students by 30%, enabling them to handle data retrieval, table joins, and data updating with confidence through practical exercises.
@@ -125,6 +125,14 @@ WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
 - **FROM Employees:** Indicates the source table, "Employees."
 - **JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID:** Links "Employees" and "Departments" tables based on the common "DepartmentID."
 - **WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000:** Filters the results to include only those where the department is 'IT' and the salary is above $60,000.
+
+**Skills Developed:**
+Students in this course develop a broad range of skills, including:
+- **Strategic IT Management:** Understanding the strategic and operational impact of IT on business processes.
+- **Technical Proficiency:** Gaining hands-on experience with SQL for data management and analysis.
+- **Information Security:** Learning principles of developing robust security plans and understanding their importance in business.
+- **Problem-Solving:** Addressing challenges in IT implementation and exploring best practices.
+- **Analytical Skills:** Analyzing the role of various IS applications and emerging technologies in transforming business operations.
 
 **Resources:**
 - [Syllabus](./Teaching-Materials/MIS-Syllabus.pdf) - Course outline and learning objectives.
