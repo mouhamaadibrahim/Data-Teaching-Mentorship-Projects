@@ -3,11 +3,11 @@
 ## Introduction
 Welcome to my Data Teaching and Mentorship Projects at the **American University of Technology (AUT)**! This repository showcases a collection of projects, dashboards, reports, and teaching materials from my work as a university instructor and mentor. As an educator, I guide students through complex data analysis projects, help them develop practical skills, and support their growth into capable data professionals.
 
-**Explore the [Project Highlights](#business-statistics) below** to see how students apply statistical concepts to real-world business challenges through hands-on projects.
+Through targeted guidance and real-world applications, my teaching approach has significantly improved students' analytical abilities and career readiness. **Explore the [Project Highlights](#business-statistics) below** to see how students apply statistical concepts to real-world business challenges through hands-on projects.
 
 ## Mentorship Highlights
 Throughout my teaching career, I have elevated student skills and fostered academic success through targeted guidance and hands-on learning experiences. Here are some key achievements:
-- **Elevated communication, analytical, and visualization skills by 50%** through mentoring data analysis projects in business, transport, and management, utilizing Excel pivot tables to produce 7 impactful dashboards and reports.
+- **Elevated communication, analytical, and visualization skills by 50%** through mentoring data analysis projects across business, transport, and management, utilizing Excel pivot tables to produce **7 impactful dashboards and reports**.
 - **Boosted student engagement by 30%** with real-world SQL exercises in Management Information Systems, achieving a 90%+ pass rate.
 - **Propelled 45% of students scoring 85%+ in Probability & Statistics** by integrating data analysis methodologies, leading to an 89% pass rate.
 - **Facilitated 70%+ achievement among 50% of students** in data science-related courses like Linear Algebra and Discrete Math, supporting algorithm development and problem-solving, with over 5 students securing programming jobs.
@@ -17,13 +17,22 @@ Throughout my teaching career, I have elevated student skills and fostered acade
 ## Impact of Teaching and Mentorship
 My mentorship has significantly impacted students' academic journeys, empowering them to excel in data-related courses and secure opportunities in their careers. By integrating practical exercises and real-world data analysis scenarios, I have enhanced students’ problem-solving and technical skills, preparing them for industry demands.
 
+### Student Testimonial
+> *“He was very good at explaining and the way he treated the students, in addition to the project he asked the students, was very useful.”* — Student Feedback
+
 ## Technical Skills Applied
 In my teaching and mentorship, I leverage a diverse set of tools and methodologies to drive student success:
-- **Data Analysis & Visualization:** Excel, SQL, with an overview of Power BI.
-- **Statistical Analysis & Modeling:** Excel
-- **Database Management & SQL:** SQL for querying and analyzing datasets to extract insights.
-- **Educational Content Development:** LaTeX, Microsoft PowerPoint
-- **Project Management & Collaboration:** Microsoft Teams, Slack
+
+- **Data Analysis & Visualization:**
+  - Tools: Excel, SQL, Power BI (overview)
+- **Statistical Analysis & Modeling:**
+  - Tools: Excel
+- **Database Management & SQL:**
+  - Tools: SQL for querying and analyzing datasets to extract insights.
+- **Educational Content Development:**
+  - Tools: LaTeX, Microsoft PowerPoint
+- **Project Management & Collaboration:**
+  - Tools: Microsoft Teams, Slack
 
 ## Table of Contents
 
@@ -45,8 +54,11 @@ Business Statistics at AUT covers fundamental statistical techniques with a stro
 **Mentoring Role:**
 As the course instructor and mentor, I guide students through real-world applications of statistical concepts using projects and case studies. My mentorship focuses on enhancing analytical skills through problem-solving activities, encouraging teamwork in group discussions, and developing computer skills using tools like Excel for statistical analysis. By providing practical examples and personalized feedback, I help students connect the statistical theory to real-life business problems.
 
-### Project Highlights: Business Statistics Projects Aligned with Majors
+**Impact:**
+- **Guided 90%+ achievement among 40% of students** through elevating analytical and visualization skills by implementing data analysis projects, contributing to an **88% pass rate**.
+- **Elevated communication, analytical, and visualization skills by 50%** through mentoring data analysis projects in business, transport, and management, utilizing Excel pivot tables to produce **7 impactful dashboards and reports**.
 
+### Project Highlights: Business Statistics Projects Aligned with Majors
 
 1. [Analysis of Global Travel Patterns, Preferences, and Costs](./Transport-Management-Project/README.md) - **For Transport Management Major**
    - **Project Overview:** This project provides an in-depth analysis of global travel patterns, preferences, and costs using a comprehensive travel dataset sourced from Kaggle. The dataset includes detailed information on trips, such as destinations, travel dates, trip durations, traveler demographics, and the type and cost of accommodation and transportation. The objective is to gain insights into travel behaviors and preferences, which can help travel-related businesses tailor their marketing strategies and travel packages.
