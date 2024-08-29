@@ -39,7 +39,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 ### Business Administration Department:
 1. [Business Statistics](#business-statistics) - Mentored data analysis projects, guiding students in applying statistical methods to business insights.
 2. [Management Information Systems](#Management-Information-Systems) - Features case studies and SQL exercises focused on applying IT strategies to real-world business scenarios.
-3. [Calculus & Applied Math for Business](#Calculus&Applied-Math-for-Business) - Focuses on real-world statistical analysis problems, contributing to an 85% pass rate.
+3. [Calculus & Applied Math for Business](#Calculus--Applied-Math-for-Business) - Focuses on real-world statistical analysis problems, contributing to an 85% pass rate.
 
 ### Computer Science Department:
 1. [Probability & Statistics](./Teaching-Materials/Probability-Statistics) - Guided students through core concepts and practical applications, enhancing their understanding of statistical methods.
