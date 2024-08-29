@@ -117,11 +117,13 @@ One of the practical questions posed to students was:
 *"Consider a hypothetical database with two tables: 'Employees' and 'Departments.' Design an SQL query to retrieve the names and salaries of all employees who work in the 'IT' department and earn more than $60,000 annually."*
 
 **SQL Solution:**
-```sql
+
+\```sql
 SELECT EmployeeName, Salary 
 FROM Employees 
 JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID 
 WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
+\```
 
 **Explanation:**
 - **SELECT EmployeeName, Salary:** Specifies the columns to retrieve.
