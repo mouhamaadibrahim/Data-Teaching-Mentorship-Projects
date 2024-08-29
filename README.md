@@ -118,12 +118,12 @@ One of the practical questions posed to students was:
 
 **SQL Solution:**
 
-\```sql
+```sql
 SELECT EmployeeName, Salary 
 FROM Employees 
 JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID 
 WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
-\```
+```
 
 **Explanation:**
 - **SELECT EmployeeName, Salary:** Specifies the columns to retrieve.
