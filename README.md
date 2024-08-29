@@ -38,7 +38,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 
 ### Business Administration Department:
 1. [Business Statistics](#business-statistics) - Mentored data analysis projects, guiding students in applying statistical methods to business insights.
-2. [Management Information Systems](./Student-Reports/Management-Information-Systems) - Features case studies and SQL exercises focused on applying IT strategies to real-world business scenarios.
+2. [Management Information Systems](#Management-Information-Systems) - Features case studies and SQL exercises focused on applying IT strategies to real-world business scenarios.
 3. [Calculus & Applied Math for Business](./Teaching-Materials/Calculus-Applied-Math-Business) - Focuses on real-world statistical analysis problems, contributing to an 85% pass rate.
 
 ### Computer Science Department:
@@ -90,6 +90,44 @@ Students in this course develop a comprehensive set of skills, including:
 - **Teamwork and Communication:** Through group assignments and discussions, students learn to collaborate and articulate their findings effectively.
 - **Technical Proficiency:** Practical use of Excel for data analysis, enabling students to apply statistical concepts to real-world datasets.
 - **Critical Thinking:** Through creative problem-solving tasks, students learn to evaluate statistical information and apply it in their fields.
+
+## Management Information Systems
+
+**Course Overview:**
+Management Information Systems (MIS) at AUT provides an introduction to management information technologies, emphasizing the relationship between Information Technology (IT) and business processes. The course focuses on the importance of aligning business information systems with business strategy and helps students understand the modern IT-driven business value chain. Key topics include IT’s role in organizational change, business transformation, and the development of IT strategies that support business objectives.
+
+**Learning Objectives:**
+The course aims to equip future business managers with the knowledge of strategic and operational aspects of IT management. Students explore a broad range of topics, including:
+- Fundamental components of IT and their impact on business operations and strategy.
+- IT architecture and its importance in business.
+- Various types of IS applications and their roles in organizations.
+- Principles of information security and the development of robust security plans.
+- Challenges and best practices in IT implementation and outsourcing.
+- The transformative potential of emerging information technologies.
+
+**Mentoring Role:**
+As the course instructor and mentor, I guide students through practical applications of IT strategies via case studies and hands-on SQL exercises. My role includes facilitating understanding of how IT supports business processes, enabling students to develop critical skills in IT management and data-driven decision-making.
+
+**Impact:**
+- **Boosted SQL proficiency:** Improved fundamental SQL skills among students by 30%, enabling them to handle data retrieval, table joins, and data updating with confidence through practical exercises.
+- **Enhanced business IT strategy understanding:** Students achieved a 90%+ pass rate by engaging with real-world IT case studies, reinforcing their ability to align IT strategies with business objectives.
+
+**Practical SQL Example:**
+One of the practical questions posed to students was:  
+*"Consider a hypothetical database with two tables: 'Employees' and 'Departments.' Design an SQL query to retrieve the names and salaries of all employees who work in the 'IT' department and earn more than $60,000 annually."*
+
+**SQL Solution:**
+```sql
+SELECT EmployeeName, Salary 
+FROM Employees 
+JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID 
+WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
+
+**Explanation:**
+- **SELECT EmployeeName, Salary:** Specifies the columns to retrieve.
+- **FROM Employees:** Indicates the source table, "Employees."
+- **JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID:** Links "Employees" and "Departments" tables based on the common "DepartmentID."
+- **WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000:** Filters the results to include only those where the department is 'IT' and the salary is above $60,000.
 
 **Resources and Materials:**
 - [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
