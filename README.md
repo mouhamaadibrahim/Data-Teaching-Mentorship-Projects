@@ -91,6 +91,10 @@ Students in this course develop a comprehensive set of skills, including:
 - **Technical Proficiency:** Practical use of Excel for data analysis, enabling students to apply statistical concepts to real-world datasets.
 - **Critical Thinking:** Through creative problem-solving tasks, students learn to evaluate statistical information and apply it in their fields.
 
+**Resources:**
+- [Syllabus](./Teaching-Materials/Business-Statistics-Syllabus.pdf) - Course outline and learning objectives.
+- [Lecture Slides](./Slides/Business-Statistics-Lectures.pdf) - Presentations covering key course concepts.
+
 ## Management Information Systems
 
 **Course Overview:**
@@ -130,6 +134,11 @@ WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
 - **FROM Employees:** Indicates the source table, "Employees."
 - **JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID:** Links "Employees" and "Departments" tables based on the common "DepartmentID."
 - **WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000:** Filters the results to include only those where the department is 'IT' and the salary is above $60,000.
+
+**Resources:**
+- [Syllabus](./Teaching-Materials/MIS-Syllabus.pdf) - Course outline and learning objectives.
+- [Practical SQL Exercises](./Teaching-Materials/SQL-Practical-Questions.pdf) - Hands-on SQL exercises for students.
+- [Lecture Slides](./Slides/MIS-Lectures.pdf) - Presentations covering key course concepts.
 
 **Resources and Materials:**
 - [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
