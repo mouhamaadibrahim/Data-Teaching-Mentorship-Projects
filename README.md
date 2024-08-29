@@ -84,7 +84,7 @@ As the course instructor and mentor, I guide students through real-world applica
      - [Dashboard](./Student-Dashboards/Nutrition-Project-Dashboard.xlsx)
      - [Report](./Student-Reports/Nutrition-Project-Report.pdf)
 
-**Skills Developed:**
+**Skills Developed**  
 Students in this course develop a comprehensive set of skills, including:
 - **Analytical Skills:** By solving statistical problems and engaging in case studies.
 - **Teamwork and Communication:** Through group assignments and discussions, students learn to collaborate and articulate their findings effectively.
@@ -126,7 +126,7 @@ WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
 - **JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID:** Links "Employees" and "Departments" tables based on the common "DepartmentID."
 - **WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000:** Filters the results to include only those where the department is 'IT' and the salary is above $60,000.
 
-**Skills Developed:**
+**Skills Developed**  
 Students in this course develop a broad range of skills, including:
 - **Strategic IT Management:** Understanding the strategic and operational impact of IT on business processes.
 - **Technical Proficiency:** Gaining hands-on experience with SQL for data management and analysis.
