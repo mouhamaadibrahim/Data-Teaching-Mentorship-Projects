@@ -139,6 +139,30 @@ Students in this course develop a broad range of skills, including:
 - [Practical SQL Exercises](./Teaching-Materials/SQL-Practical-Questions.pdf) - Hands-on SQL exercises for students.
 - [Lecture Slides](./Slides/MIS-Lectures.pdf) - Presentations covering key course concepts.
 
+## Calculus & Applied Math for Business
+
+**Course Overview:**
+Calculus & Applied Math for Business at AUT introduces students to key mathematical tools such as linear algebra, elementary calculus, and the mathematics of finance, with a focus on their applications in economics and business. The course emphasizes real-world applications, including supply and demand analysis, investment appraisal, and optimization of economic functions through differentiation and integration.
+
+**Mentoring Role:**
+As the course instructor and mentor, I guide students through the application of mathematical concepts to solve business problems. By incorporating practical examples, such as matrix operations and financial calculations, I help students develop a strong foundation in applying mathematical techniques to business scenarios. My mentorship focuses on making mathematics accessible and relevant, enhancing students' confidence in using these skills in their future careers.
+
+**Impact:**
+- **Attained 40% of students scoring 75%+** by incorporating real-world statistical analysis problems, contributing to an **85% pass rate** in the course.
+- **Enhanced students' practical skills in mathematical applications:** Through targeted exercises and case studies, students were able to connect mathematical theory to real-life business challenges.
+
+**Skills Developed**  
+Students in this course develop a comprehensive set of skills, including:
+- **Mathematical Analysis:** Understanding and applying linear, quadratic, logarithmic, and exponential functions in business contexts.
+- **Technical Proficiency:** Mastering matrix operations, differentiation, and integration for practical problem-solving.
+- **Financial Mathematics:** Applying concepts like compound interest and investment appraisal to real-world business decisions.
+- **Critical Thinking:** Analyzing and solving business-related mathematical problems through case studies and projects.
+- **Teamwork and Communication:** Collaborating on assignments and case studies, improving interaction and presentation skills in mathematical contexts.
+
+**Resources:**
+- [Syllabus](./Teaching-Materials/Calculus-Applied-Math-Business-Syllabus.pdf) - Course outline and learning objectives.
+- [Lecture Slides](./Slides/Calculus-Applied-Math-Business-Syllabus-Slides.pdf) - Presentations covering key course concepts.
+
 **Resources and Materials:**
 - [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
 - [Student Reports](./Student-Reports) - Reports and analyses completed by students, demonstrating the application of statistical and analytical methods.
