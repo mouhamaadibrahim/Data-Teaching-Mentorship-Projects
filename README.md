@@ -100,15 +100,6 @@ Students in this course develop a comprehensive set of skills, including:
 **Course Overview:**
 Management Information Systems (MIS) at AUT provides an introduction to management information technologies, emphasizing the relationship between Information Technology (IT) and business processes. The course focuses on the importance of aligning business information systems with business strategy and helps students understand the modern IT-driven business value chain. Key topics include IT’s role in organizational change, business transformation, and the development of IT strategies that support business objectives.
 
-**Learning Objectives:**
-The course aims to equip future business managers with the knowledge of strategic and operational aspects of IT management. Students explore a broad range of topics, including:
-- Fundamental components of IT and their impact on business operations and strategy.
-- IT architecture and its importance in business.
-- Various types of IS applications and their roles in organizations.
-- Principles of information security and the development of robust security plans.
-- Challenges and best practices in IT implementation and outsourcing.
-- The transformative potential of emerging information technologies.
-
 **Mentoring Role:**
 As the course instructor and mentor, I guide students through practical applications of IT strategies via case studies and hands-on SQL exercises. My role includes facilitating understanding of how IT supports business processes, enabling students to develop critical skills in IT management and data-driven decision-making.
 
