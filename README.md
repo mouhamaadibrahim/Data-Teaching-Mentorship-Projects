@@ -43,7 +43,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 
 ### Computer Science Department:
 1. [Probability & Statistics](#Probability--Statistics) - Guided students through core concepts and practical applications, enhancing their understanding of statistical methods.
-2. [Linear Algebra & Discrete Math](./Slides/Linear-Algebra-Discrete-Math) - Data science-related courses with slides and recommended readings supporting algorithm development and problem-solving.
+2. [Linear Algebra & Discrete Math](#Linear-Algebra--Discrete-Math) - Data science-related courses with slides and recommended readings supporting algorithm development and problem-solving.
 3. [Calculus III](./Teaching-Materials/Calculus-III) - Incorporates various analytical techniques, including data modeling like least squares regression, as part of a broader focus on calculus applications.
 
 ## Business Statistics
@@ -185,6 +185,31 @@ Students in this course develop a comprehensive set of skills, including:
 **Resources:**
 - [Syllabus](./Teaching-Materials/Probability-Statistics-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Probability-Statistics-Slides.pdf) - Presentations covering key course concepts.
+
+## Linear Algebra & Discrete Math
+
+**Course Overview:**
+The **Linear Algebra** and **Discrete Math** courses at AUT are fundamental for students in the Computer Science department, providing essential mathematical tools and concepts for data science, computer algorithms, and problem-solving. These courses cover topics such as vector spaces, matrix theory, linear transformations, combinatorics, graph theory, number theory, and cryptography. They balance computational techniques with theoretical understanding, making them indispensable for students pursuing advanced studies or careers in computer science and related fields.
+
+**Mentoring Role:**
+As the course instructor and mentor, I guide students through core concepts in both linear algebra and discrete math, with a focus on their applications in computer science. Through structured lectures, practical problem-solving sessions, and recommended readings, I ensure students gain a deep understanding of algorithm development, matrix computations, graph theory, and mathematical reasoning. My approach emphasizes real-world applications to prepare students for data science-related roles and programming jobs.
+
+**Impact:**
+- **Facilitated 70%+ achievement among 50% of students** in data science-related courses like Linear Algebra and Discrete Math, supporting algorithm development and problem-solving, with over **5 students securing programming jobs**.
+
+**Skills Developed**
+Students in these courses develop a comprehensive set of skills, including:
+- **Algorithm Development:** Understanding the mathematical foundations for algorithms, such as matrix operations, graph traversal, and Boolean algebra.
+- **Mathematical Reasoning:** Mastering techniques for logical reasoning, proof construction, and combinatorial analysis.
+- **Data Structures and Optimization:** Learning to apply linear transformations and eigenvalue problems to optimize computational processes.
+- **Cryptography and Security:** Gaining insights into number theory and cryptographic protocols for secure data transmission.
+- **Graph Theory and Networks:** Understanding graph structures, trees, and their applications in network analysis and optimization.
+
+**Resources:**
+- [Linear Algebra Syllabus](./Teaching-Materials/Linear-Algebra-Syllabus.pdf) - Course outline and learning objectives.
+- [Linear Algebra Slides](./Slides/Linear-Algebra-Slides.pdf) - Presentations covering key course concepts.
+- [Discrete Math Syllabus](./Teaching-Materials/Discrete-Math-Syllabus.pdf) - Course outline and learning objectives.
+- [Discrete Math Slides](./Slides/Discrete-Math-Slides.pdf) - Presentations covering key course concepts.
 
 
 **Resources and Materials:**
