@@ -1,26 +1,28 @@
 # Data-Teaching-Mentorship-Projects
 
-## Introduction
-Welcome to my Data Teaching and Mentorship Projects at the **American University of Technology (AUT)**! This repository showcases a collection of projects, dashboards, reports, and teaching materials from my work as a university instructor and mentor. As an educator, I guide students through complex data analysis projects, help them develop practical skills, and support their growth into capable data professionals.
+## Introduction 📚
 
+Welcome to my Data Teaching and Mentorship Projects at the **American University of Technology (AUT)**! This repository showcases a collection of projects, dashboards, reports, and teaching materials from my work as a university instructor and mentor. As an educator, I guide students through complex data analysis projects, help them develop practical skills, and support their growth into capable data professionals.  
 Through targeted guidance and real-world applications, my teaching approach has significantly improved students' analytical abilities and career readiness. **Explore the [Project Highlights](#business-statistics) below** to see how students apply statistical concepts to real-world business challenges through hands-on projects.
 
 ## Mentorship Highlights
+
 Throughout my teaching career, I have elevated student skills and fostered academic success through targeted guidance and hands-on learning experiences. Here are some key achievements:
-- **Elevated communication, analytical, and visualization skills by 50%** through mentoring data analysis projects across business, transport, and management, utilizing Excel pivot tables to produce **7 impactful dashboards and reports**.
-- **Boosted student engagement by 30%** with real-world SQL exercises in Management Information Systems, achieving a 90%+ pass rate.
-- **Propelled 45% of students scoring 85%+ in Probability & Statistics** by integrating data analysis methodologies, leading to an 89% pass rate.
-- **Facilitated 70%+ achievement among 50% of students** in data science-related courses like Linear Algebra and Discrete Math, supporting algorithm development and problem-solving, with over 5 students securing programming jobs.
-- **Achieved 50% of students earning 80%+ in Calculus III** by incorporating various analytical techniques, including data modeling like least squares regression, resulting in a 94% pass rate.
-- **Attained 40% of students scoring 75%+ in Calculus & Applied Math for Business** by incorporating real-world statistical analysis problems, contributing to an 85% pass rate.
+- ✨ **Elevated communication, analytical, and visualization skills by 50%** through mentoring data analysis projects across business, transport, and management, utilizing Excel pivot tables to produce **7 impactful dashboards and reports**.
+- ✨ **Boosted student engagement by 30%** with real-world SQL exercises in Management Information Systems, achieving a 90%+ pass rate.
+- ✨ **Propelled 45% of students scoring 85%+ in Probability & Statistics** by integrating data analysis methodologies, leading to an 89% pass rate.
+- ✨ **Facilitated 70%+ achievement among 50% of students** in data science-related courses like Linear Algebra and Discrete Math, supporting algorithm development and problem-solving, with over 5 students securing programming jobs.
+- ✨ **Achieved 50% of students earning 80%+ in Calculus III** by incorporating various analytical techniques, including data modeling like least squares regression, resulting in a 94% pass rate.
+- ✨ **Attained 40% of students scoring 75%+ in Calculus & Applied Math for Business** by incorporating real-world statistical analysis problems, contributing to an 85% pass rate.
 
 ## Impact of Teaching and Mentorship
+
 My mentorship has significantly impacted students' academic journeys, empowering them to excel in data-related courses and secure opportunities in their careers. By integrating practical exercises and real-world data analysis scenarios, I have enhanced students’ problem-solving and technical skills, preparing them for industry demands.
 
-### Student Testimonial
+### Student Testimonial 💬
 > *“He was very good at explaining and the way he treated the students, in addition to the project he asked the students, was very useful.”* — Student Feedback
 
-## Technical Skills Applied
+## Technical Skills Applied 🔧
 In my teaching and mentorship, I leverage a diverse set of tools and methodologies to drive student success:
 
 - **Data Analysis & Visualization:**
@@ -84,14 +86,14 @@ As the course instructor and mentor, I guide students through real-world applica
      - [Dashboard](./Student-Dashboards/Nutrition-Project-Dashboard.xlsx)
      - [Report](./Student-Reports/Nutrition-Project-Report.pdf)
 
-**Skills Developed**  
+**Skills Developed** 💡  
 Students in this course develop a comprehensive set of skills, including:
 - **Analytical Skills:** By solving statistical problems and engaging in case studies.
 - **Teamwork and Communication:** Through group assignments and discussions, students learn to collaborate and articulate their findings effectively.
 - **Technical Proficiency:** Practical use of Excel for data analysis, enabling students to apply statistical concepts to real-world datasets.
 - **Critical Thinking:** Through creative problem-solving tasks, students learn to evaluate statistical information and apply it in their fields.
 
-**Resources:**
+**Resources** 📂
 - [Syllabus](./Teaching-Materials/Business-Statistics-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Business-Statistics-Lectures.pdf) - Presentations covering key course concepts.
 
@@ -126,7 +128,7 @@ WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
 - **JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID:** Links "Employees" and "Departments" tables based on the common "DepartmentID."
 - **WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000:** Filters the results to include only those where the department is 'IT' and the salary is above $60,000.
 
-**Skills Developed**  
+**Skills Developed** 💡  
 Students in this course develop a broad range of skills, including:
 - **Strategic IT Management:** Understanding the strategic and operational impact of IT on business processes.
 - **Technical Proficiency:** Gaining hands-on experience with SQL for data management and analysis.
@@ -134,7 +136,7 @@ Students in this course develop a broad range of skills, including:
 - **Problem-Solving:** Addressing challenges in IT implementation and exploring best practices.
 - **Analytical Skills:** Analyzing the role of various IS applications and emerging technologies in transforming business operations.
 
-**Resources:**
+**Resources** 📂
 - [Syllabus](./Teaching-Materials/MIS-Syllabus.pdf) - Course outline and learning objectives.
 - [Practical SQL Exercises](./Teaching-Materials/SQL-Practical-Questions.pdf) - Hands-on SQL exercises for students.
 - [Lecture Slides](./Slides/MIS-Lectures.pdf) - Presentations covering key course concepts.
@@ -151,7 +153,7 @@ As the course instructor and mentor, I guide students through the application of
 - **Attained 40% of students scoring 75%+** by incorporating real-world statistical analysis problems, contributing to an **85% pass rate** in the course.
 - **Enhanced students' practical skills in mathematical applications:** Through targeted exercises and case studies, students were able to connect mathematical theory to real-life business challenges.
 
-**Skills Developed**  
+**Skills Developed** 💡  
 Students in this course develop a comprehensive set of skills, including:
 - **Mathematical Analysis:** Understanding and applying linear, quadratic, logarithmic, and exponential functions in business contexts.
 - **Technical Proficiency:** Mastering matrix operations, differentiation, and integration for practical problem-solving.
@@ -159,7 +161,7 @@ Students in this course develop a comprehensive set of skills, including:
 - **Critical Thinking:** Analyzing and solving business-related mathematical problems through case studies and projects.
 - **Teamwork and Communication:** Collaborating on assignments and case studies, improving interaction and presentation skills in mathematical contexts.
 
-**Resources:**
+**Resources** 📂
 - [Syllabus](./Teaching-Materials/Calculus-Applied-Math-Business-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Calculus-Applied-Math-Business-Slides.pdf) - Presentations covering key course concepts.
 
@@ -174,7 +176,7 @@ As the course instructor and mentor, I guide students through core concepts and 
 **Impact:**
 - **Propelled 45% of students scoring 85%+** by integrating data analysis methodologies, leading to an **89% pass rate** in the course.
 
-**Skills Developed**  
+**Skills Developed** 💡  
 Students in this course develop a comprehensive set of skills, including:
 - **Statistical Analysis:** Understanding probability, random variables, and probability distributions, including binomial, Poisson, and normal distributions.
 - **Data Interpretation:** Gaining skills in graphical and numerical data summarization, such as histograms, scatter plots, and descriptive statistics.
@@ -182,7 +184,7 @@ Students in this course develop a comprehensive set of skills, including:
 - **Problem-Solving:** Applying probability and statistical concepts to solve real-world problems, particularly in computer science and bio-environmental studies.
 - **Technical Proficiency:** Using tools like Excel for statistical computations and simulations.
 
-**Resources:**
+**Resources** 📂
 - [Syllabus](./Teaching-Materials/Probability-Statistics-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Probability-Statistics-Slides.pdf) - Presentations covering key course concepts.
 
@@ -197,7 +199,7 @@ As the course instructor and mentor, I guide students through core concepts in b
 **Impact:**
 - **Facilitated 70%+ achievement among 50% of students** in data science-related courses like Linear Algebra and Discrete Math, supporting algorithm development and problem-solving, with over **5 students securing programming jobs**.
 
-**Skills Developed**
+**Skills Developed** 💡  
 Students in these courses develop a comprehensive set of skills, including:
 - **Algorithm Development:** Understanding the mathematical foundations for algorithms, such as matrix operations, graph traversal, and Boolean algebra.
 - **Mathematical Reasoning:** Mastering techniques for logical reasoning, proof construction, and combinatorial analysis.
@@ -205,7 +207,7 @@ Students in these courses develop a comprehensive set of skills, including:
 - **Cryptography and Security:** Gaining insights into number theory and cryptographic protocols for secure data transmission.
 - **Graph Theory and Networks:** Understanding graph structures, trees, and their applications in network analysis and optimization.
 
-**Resources:**
+**Resources** 📂
 - [Linear Algebra Syllabus](./Teaching-Materials/Linear-Algebra-Syllabus.pdf) - Course outline and learning objectives.
 - [Linear Algebra Slides](./Slides/Linear-Algebra-Slides.pdf) - Presentations covering key course concepts.
 - [Discrete Math Syllabus](./Teaching-Materials/Discrete-Math-Syllabus.pdf) - Course outline and learning objectives.
@@ -222,7 +224,7 @@ As the course instructor and mentor, I guide students through the complexities o
 **Impact:**
 - **Achieved 50% of students earning 80%+** by incorporating various analytical techniques, including data modeling like least squares regression, resulting in a **94% pass rate**.
 
-**Skills Developed**
+**Skills Developed** 💡  
 Students in this course develop a comprehensive set of skills, including:
 - **Advanced Calculus Techniques:** Mastery of improper integrals, sequences, infinite series, and power series.
 - **Multivariable Calculus:** Understanding functions of several variables, partial derivatives, multiple integrals, and their applications in real-world scenarios.
@@ -230,7 +232,7 @@ Students in this course develop a comprehensive set of skills, including:
 - **Vector Calculus:** Performing vector operations and understanding their applications in three-dimensional space.
 - **Analytical and Critical Thinking:** Solving complex calculus problems and understanding their implications in various fields.
 
-**Resources:**
+**Resources** 📂
 - [Syllabus](./Teaching-Materials/Calculus-III-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Calculus-III-Slides.pdf) - Presentations covering key course concepts.
 
