@@ -211,6 +211,29 @@ Students in these courses develop a comprehensive set of skills, including:
 - [Discrete Math Syllabus](./Teaching-Materials/Discrete-Math-Syllabus.pdf) - Course outline and learning objectives.
 - [Discrete Math Slides](./Slides/Discrete-Math-Slides.pdf) - Presentations covering key course concepts.
 
+## Calculus III
+
+**Course Overview:**
+Calculus III at AUT covers advanced calculus topics such as improper integrals, infinite series, multivariable calculus, and vector calculus. The course introduces students to various analytical techniques, including power series, Taylor and Maclaurin series, partial derivatives, multiple integrals, and vector operations. These mathematical concepts are applied to solve real-world problems in science, engineering, and economics, providing students with a deeper understanding of calculus in higher dimensions.
+
+**Mentoring Role:**
+As the course instructor and mentor, I guide students through the complexities of multivariable calculus and advanced integration techniques, including numerical integration and improper integrals. By incorporating data modeling techniques like least squares regression, I help students bridge the gap between theoretical mathematics and practical applications. My mentorship emphasizes problem-solving, critical thinking, and analytical skills, ensuring that students are well-prepared for technical roles in industry.
+
+**Impact:**
+- **Achieved 50% of students earning 80%+** by incorporating various analytical techniques, including data modeling like least squares regression, resulting in a **94% pass rate**.
+
+**Skills Developed**
+Students in this course develop a comprehensive set of skills, including:
+- **Advanced Calculus Techniques:** Mastery of improper integrals, sequences, infinite series, and power series.
+- **Multivariable Calculus:** Understanding functions of several variables, partial derivatives, multiple integrals, and their applications in real-world scenarios.
+- **Data Modeling and Regression:** Applying techniques like least squares regression for data analysis and interpretation.
+- **Vector Calculus:** Performing vector operations and understanding their applications in three-dimensional space.
+- **Analytical and Critical Thinking:** Solving complex calculus problems and understanding their implications in various fields.
+
+**Resources:**
+- [Syllabus](./Teaching-Materials/Calculus-III-Syllabus.pdf) - Course outline and learning objectives.
+- [Lecture Slides](./Slides/Calculus-III-Slides.pdf) - Presentations covering key course concepts.
+
 
 **Resources and Materials:**
 - [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
