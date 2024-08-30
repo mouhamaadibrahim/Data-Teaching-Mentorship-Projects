@@ -44,7 +44,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 ### Computer Science Department:
 1. [Probability & Statistics](#Probability--Statistics) - Guided students through core concepts and practical applications, enhancing their understanding of statistical methods.
 2. [Linear Algebra & Discrete Math](#Linear-Algebra--Discrete-Math) - Data science-related courses with slides and recommended readings supporting algorithm development and problem-solving.
-3. [Calculus III](./Teaching-Materials/Calculus-III) - Incorporates various analytical techniques, including data modeling like least squares regression, as part of a broader focus on calculus applications.
+3. [Calculus III](#Calculus-III) - Incorporates various analytical techniques, including data modeling like least squares regression, as part of a broader focus on calculus applications.
 
 ## Business Statistics
 
