@@ -48,7 +48,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 2. [Linear Algebra & Discrete Math](#Linear-Algebra--Discrete-Math) - Data science-related courses with slides and recommended readings supporting algorithm development and problem-solving.
 3. [Calculus III](#Calculus-III) - Incorporates various analytical techniques, including data modeling like least squares regression, as part of a broader focus on calculus applications.
 
-## Business Statistics
+## Business Statistics 📊
 
 **Course Overview:**
 Business Statistics at AUT covers fundamental statistical techniques with a strong emphasis on business and economic applications. The course includes topics such as data summary techniques, probability theory, probability distributions, sampling distributions, estimation, and regression analysis. Students gain skills in graphical and numerical data analysis, which are critical for interpreting and making data-driven decisions in business contexts.
@@ -97,7 +97,7 @@ Students in this course develop a comprehensive set of skills, including:
 - [Syllabus](./Teaching-Materials/Business-Statistics-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Business-Statistics-Lectures.pdf) - Presentations covering key course concepts.
 
-## Management Information Systems
+## Management Information Systems 💻
 
 **Course Overview:**
 Management Information Systems (MIS) at AUT provides an introduction to management information technologies, emphasizing the relationship between Information Technology (IT) and business processes. The course covers fundamental components of IT, such as IT architecture, information security, and the transformative potential of emerging technologies. It focuses on the importance of aligning business information systems with business strategy and helps students understand the modern IT-driven business value chain, including the challenges and best practices of IT implementation and outsourcing.
@@ -141,7 +141,7 @@ Students in this course develop a broad range of skills, including:
 - [Practical SQL Exercises](./Teaching-Materials/SQL-Practical-Questions.pdf) - Hands-on SQL exercises for students.
 - [Lecture Slides](./Slides/MIS-Lectures.pdf) - Presentations covering key course concepts.
 
-## Calculus & Applied Math for Business
+## Calculus & Applied Math for Business 🧮
 
 **Course Overview:**
 Calculus & Applied Math for Business at AUT introduces students to key mathematical tools such as linear algebra, elementary calculus, and the mathematics of finance, with a focus on their applications in economics and business. The course emphasizes real-world applications, including supply and demand analysis, investment appraisal, and optimization of economic functions through differentiation and integration.
@@ -165,7 +165,7 @@ Students in this course develop a comprehensive set of skills, including:
 - [Syllabus](./Teaching-Materials/Calculus-Applied-Math-Business-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Calculus-Applied-Math-Business-Slides.pdf) - Presentations covering key course concepts.
 
-## Probability & Statistics
+## Probability & Statistics 🎲
 
 **Course Overview:**
 Probability & Statistics at AUT introduces students to fundamental statistical techniques, emphasizing applications in computer science and nutrition. The course covers essential topics such as data analysis, probability theory, probability distributions, and statistical inference, equipping students with the skills to model uncertainty, interpret data, and apply statistical methods to real-world problems.
@@ -188,7 +188,7 @@ Students in this course develop a comprehensive set of skills, including:
 - [Syllabus](./Teaching-Materials/Probability-Statistics-Syllabus.pdf) - Course outline and learning objectives.
 - [Lecture Slides](./Slides/Probability-Statistics-Slides.pdf) - Presentations covering key course concepts.
 
-## Linear Algebra & Discrete Math
+## Linear Algebra & Discrete Math 🔢
 
 **Course Overview:**
 The **Linear Algebra** and **Discrete Math** courses at AUT are fundamental for students in the Computer Science department, providing essential mathematical tools and concepts for data science, computer algorithms, and problem-solving. These courses cover topics such as vector spaces, matrix theory, linear transformations, combinatorics, graph theory, number theory, and cryptography. They balance computational techniques with theoretical understanding, making them indispensable for students pursuing advanced studies or careers in computer science and related fields.
@@ -213,7 +213,7 @@ Students in these courses develop a comprehensive set of skills, including:
 - [Discrete Math Syllabus](./Teaching-Materials/Discrete-Math-Syllabus.pdf) - Course outline and learning objectives.
 - [Discrete Math Slides](./Slides/Discrete-Math-Slides.pdf) - Presentations covering key course concepts.
 
-## Calculus III
+## Calculus III 📐
 
 **Course Overview:**
 Calculus III at AUT covers advanced calculus topics such as improper integrals, infinite series, multivariable calculus, and vector calculus. The course introduces students to various analytical techniques, including power series, Taylor and Maclaurin series, partial derivatives, multiple integrals, and vector operations. These mathematical concepts are applied to solve real-world problems in science, engineering, and economics, providing students with a deeper understanding of calculus in higher dimensions.
