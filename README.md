@@ -42,7 +42,7 @@ In my teaching and mentorship, I leverage a diverse set of tools and methodologi
 3. [Calculus & Applied Math for Business](#Calculus--Applied-Math-for-Business) - Focuses on real-world statistical analysis problems, contributing to an 85% pass rate.
 
 ### Computer Science Department:
-1. [Probability & Statistics](./Teaching-Materials/Probability-Statistics) - Guided students through core concepts and practical applications, enhancing their understanding of statistical methods.
+1. [Probability & Statistics](#Probability--Statistics) - Guided students through core concepts and practical applications, enhancing their understanding of statistical methods.
 2. [Linear Algebra & Discrete Math](./Slides/Linear-Algebra-Discrete-Math) - Data science-related courses with slides and recommended readings supporting algorithm development and problem-solving.
 3. [Calculus III](./Teaching-Materials/Calculus-III) - Incorporates various analytical techniques, including data modeling like least squares regression, as part of a broader focus on calculus applications.
 
@@ -161,7 +161,31 @@ Students in this course develop a comprehensive set of skills, including:
 
 **Resources:**
 - [Syllabus](./Teaching-Materials/Calculus-Applied-Math-Business-Syllabus.pdf) - Course outline and learning objectives.
-- [Lecture Slides](./Slides/Calculus-Applied-Math-Business-Syllabus-Slides.pdf) - Presentations covering key course concepts.
+- [Lecture Slides](./Slides/Calculus-Applied-Math-Business-Slides.pdf) - Presentations covering key course concepts.
+
+## Probability & Statistics
+
+**Course Overview:**
+Probability & Statistics at AUT introduces students to fundamental statistical techniques, emphasizing applications in computer science and nutrition. The course covers essential topics such as data analysis, probability theory, probability distributions, and statistical inference, equipping students with the skills to model uncertainty, interpret data, and apply statistical methods to real-world problems.
+
+**Mentoring Role:**
+As the course instructor and mentor, I guide students through core concepts and practical applications of probability and statistics, enhancing their understanding of statistical methods. My mentorship includes providing hands-on experience with data analysis tools, fostering critical thinking, and supporting students in applying statistical techniques to diverse fields, including computer science and nutrition.
+
+**Impact:**
+- **Propelled 45% of students scoring 85%+** by integrating data analysis methodologies, leading to an **89% pass rate** in the course.
+
+**Skills Developed**  
+Students in this course develop a comprehensive set of skills, including:
+- **Statistical Analysis:** Understanding probability, random variables, and probability distributions, including binomial, Poisson, and normal distributions.
+- **Data Interpretation:** Gaining skills in graphical and numerical data summarization, such as histograms, scatter plots, and descriptive statistics.
+- **Statistical Inference:** Learning hypothesis testing, confidence intervals, and regression analysis to make data-driven decisions.
+- **Problem-Solving:** Applying probability and statistical concepts to solve real-world problems, particularly in computer science and bio-environmental studies.
+- **Technical Proficiency:** Using tools like Excel for statistical computations and simulations.
+
+**Resources:**
+- [Syllabus](./Teaching-Materials/Probability-Statistics-Syllabus.pdf) - Course outline and learning objectives.
+- [Lecture Slides](./Slides/Probability-Statistics-Slides.pdf) - Presentations covering key course concepts.
+
 
 **Resources and Materials:**
 - [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
