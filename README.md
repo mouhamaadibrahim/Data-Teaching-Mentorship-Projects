@@ -20,7 +20,8 @@ Throughout my teaching career, I have elevated student skills and fostered acade
 My mentorship has significantly impacted students' academic journeys, empowering them to excel in data-related courses and secure opportunities in their careers. By integrating practical exercises and real-world data analysis scenarios, I have enhanced students’ problem-solving and technical skills, preparing them for industry demands.
 
 ### Student Testimonial 💬
-> *“He was very good at explaining and the way he treated the students, in addition to the project he asked the students, was very useful.”* — Student Feedback
+> *“I had the great fortune of being taught by Dr. Mouhamad Ibrahim at AUT in courses like Probability and Statistics, Discrete Math, and Calculus III. He has a talent for turning complex topics, like regression and minimizing RSS, into clear, practical lessons that stick with you. Dr. Ibrahim’s passion for data and his supportive, engaging teaching style made a huge impact on my learning. He truly cares about his students and inspires a love for analytics. I highly recommend him for any data analyst role—his expertise and enthusiasm would be a great asset to any team.”*  
+— **Ali Tarraf**, Web Developer at *Sowlutions Inc.*
 
 ## Technical Skills Applied 🔧
 In my teaching and mentorship, I leverage a diverse set of tools and methodologies to drive student success:
