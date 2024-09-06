@@ -122,7 +122,6 @@ FROM Employees
 JOIN Departments ON Employees.DepartmentID = Departments.DepartmentID 
 WHERE Departments.DepartmentName = 'IT' AND Employees.Salary > 60000;
 ```
-
 **Explanation:**
 - **SELECT EmployeeName, Salary:** Specifies the columns to retrieve.
 - **FROM Employees:** Indicates the source table, "Employees."
