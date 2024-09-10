@@ -237,7 +237,7 @@ Students in this course develop a comprehensive set of skills, including:
 - [Lecture Slides](./Slides/Calculus-III-Slides.pdf) - Presentations covering key course concepts.
 
 
-**Resources and Materials:**
+## Resources and Materials
 - [Student Dashboards](./Student-Dashboards) - A collection of interactive and static dashboards created as part of various course projects.
 - [Student Reports](./Student-Reports) - Reports and analyses completed by students, demonstrating the application of statistical and analytical methods.
 - [Teaching Materials](./Teaching-Materials) - Includes syllabi, lesson plans, exercises, and other instructional materials used in courses.
